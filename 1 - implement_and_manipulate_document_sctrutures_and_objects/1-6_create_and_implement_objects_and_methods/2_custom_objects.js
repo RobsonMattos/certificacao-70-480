@@ -1,0 +1,6 @@
+// Usando inicializadores de objeto / notação literal.
+
+var obj = { propriedade_1:   valor_1,   // propriedade_# pode ser um identificador...
+    2:            valor_2,   // ou um numero...
+    // ...,
+    "propriedade n": valor_n }; // ou uma string
